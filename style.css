@@ -248,9 +248,9 @@ strong .special{
 
 /* Handphone */
 
-@media (max-width: 480px) {
+@media (max-width: 576px) {
   html {
-    font-size: 40%;
+    font-size: 60%;
     
   }
 
